@@ -11,13 +11,14 @@ const name = "John";
 
 let num = 25;
 
-//  1. Number (Число)
+//  1. число
 
 let str1 = "Алексей";
-// 2. String (Строка)
+// 2. текст
 
 let bool = true;
-// 3. Boolean 
+// 3. правда или ложь
+
 
 let unef = undefined; 
 // 4. значение не определено.
